@@ -19,7 +19,7 @@ Subinterface G0/0.20 had no IP address configured.
 Subinterface G0/0.30 had incorrect VLAN encapsulation.
 
 Relevant commands:
-show ip interface brief
+show ip interface brief,
 show ip route
 
 
