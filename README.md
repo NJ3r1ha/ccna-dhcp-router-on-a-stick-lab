@@ -31,8 +31,6 @@ and resolved using a structured troubleshooting approach.
 
 Detailed troubleshooting steps and analysis can be found in [TROUBLESHOOTING.md](TROUBLESHOOTING.md).
 
-![Topology](screenshots/ScreenshotTopology.png)
-
 ## Resolution
 All Layer 2, Layer 3 and DHCP configuration issues were resolved.  
 All hosts successfully obtained IP addresses via DHCP and full inter-VLAN connectivity was restored.
