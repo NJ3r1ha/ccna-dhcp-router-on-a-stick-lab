@@ -31,7 +31,7 @@ and resolved using a structured troubleshooting approach.
 
 Detailed troubleshooting steps and analysis can be found in [TROUBLESHOOTING.md](TROUBLESHOOTING.md).
 
-![Topology](screenshots/Screenshot Topology.png)
+![Topology](screenshots/ScreenshotTopology.png)
 
 ## Resolution
 All Layer 2, Layer 3 and DHCP configuration issues were resolved.  
