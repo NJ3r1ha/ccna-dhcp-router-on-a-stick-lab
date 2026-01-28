@@ -19,7 +19,6 @@ Subinterface G0/0.20 had no IP address configured.
 Subinterface G0/0.30 had incorrect VLAN encapsulation.
 
 Relevant commands:
-
 show ip interface brief
 show ip route
 
@@ -29,7 +28,6 @@ show ip route
 - DHCP pool for VLAN 20 had incorrect default-router configuration
 
 Relevant command:
-
 show running-config | section dhcp
 
 ## Resolution
