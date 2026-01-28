@@ -28,6 +28,7 @@ and resolved using a structured troubleshooting approach.
 - Subinterface G0/0.30 had incorrect VLAN encapsulation
 - DHCP pool for VLAN 30 was missing
 - DHCP pool for VLAN 20 had incorrect default-router configuration
+Detailed troubleshooting steps and analysis can be found in [TROUBLESHOOTING.md](TROUBLESHOOTING.md).
 
 ## Resolution
 All Layer 2, Layer 3 and DHCP configuration issues were resolved.  
